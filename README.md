@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shacovik
 - 👀 I’m interested in woodworking, coding, drawing and soccer.
-- 🌱 I’m currently learning python, cybersecurity and real estate.
+- 🌱 I’m currently learning Javascript, cybersecurity and real estate.
 - 💞️ I’m looking to collaborate on coding projects, investing and finance.
 - 📫 How to reach me ...
 
