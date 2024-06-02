@@ -20,6 +20,18 @@
 
 <h2>📄 Certifications</h2>
 
+- <b>CompTIA</b>
+  - [CompTIA A+](https://www.credly.com/earner/earned/badge/cbcb3bb8-c6ef-488a-bf1b-65953b6f7b88)
+  - [CompTIA Network+](https://www.credly.com/earner/earned/badge/d28be1b1-7e88-4fea-9bf2-33782389057f)
+  - [CompTIA Security+](https://www.credly.com/earner/earned/badge/ddc414f1-00d6-4a1b-a8c0-8c875dc0d9bc)
+  - [CompTIA Project+](https://www.credly.com/earner/earned/badge/d91f7db1-d6a9-4fe2-ad8b-dd28201b4b39)
+  - [CompTIA PenTest+](https://www.credly.com/earner/earned/badge/a608471c-f525-4dbd-b13b-5bdcf0bd18bb)
+  - [CompTIA CySA+](https://www.credly.com/earner/earned/badge/ed9d54e4-1c58-4a53-b8fd-bfa7a1607912)
+  - [CompTIA CNSP](https://www.credly.com/earner/earned/badge/a7af59b2-2407-460f-b2b6-1e2279dd3a8b)
+  - [CompTIA CNVP](https://www.credly.com/earner/earned/badge/bb2e29d1-8524-4774-b5af-accc4c16097e)
+  - [CompTIA CSAP](https://www.credly.com/earner/earned/badge/3d152cb5-4bad-4c8e-9879-c7eb55dd1819)
+  - [CompTIA CIOS](https://www.credly.com/earner/earned/badge/4e7bef32-7d8f-4e7f-9a71-500aff04cd5b)
+  - [CompTIA CSIS](https://www.credly.com/earner/earned/badge/5456ab5c-2ef8-4139-a1e0-50bb038866ad)
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
