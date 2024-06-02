@@ -51,11 +51,12 @@
 [<img align="left" alt="Shacovik | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Shacovik | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="Shacovik | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Shacovik | TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />][tiktok]
 
 [linkedin]: https://www.linkedin.com/in/shacovik-flores-b339311b4/
 [facebook]: https://www.facebook.com/shacovik.flores.1
 [instagram]: https://www.instagram.com/_shacovik_/
-
+[tiktok]: https://www.tiktok.com/@shacovik?_t=8mrnU2LJBtq&_r=1
 
 <!--
 **shacovik/shacovik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
