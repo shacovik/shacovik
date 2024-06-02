@@ -1,5 +1,6 @@
 <h1>Hi, I'm Shacovik! <br/> <a href="https://www.linkedin.com/in/shacovik-flores-b339311b4/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a></h1>
 
+<!--
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -17,6 +18,8 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+   -->
+
 
 <h2>📄 Certifications</h2>
 
